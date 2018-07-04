@@ -1,4 +1,4 @@
-# flutter_cap_01
+# Iniciando con Flutter
 
 A new Flutter project.
 
@@ -7,3 +7,4 @@ A new Flutter project.
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 # flutterCap01
+Mostrando un pequeño hola mundo, un texto centrado en la pantalla
